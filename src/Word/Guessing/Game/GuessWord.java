@@ -10,7 +10,7 @@ public class GuessWord {
 
     // fields
     private boolean start = true;
-    private int rounds = 10;
+    private int rounds = 13;
     private String varGuesser;
 
     // start method start's the game when called
